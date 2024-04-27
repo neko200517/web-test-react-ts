@@ -1,2 +1,15 @@
-# web-test-react-ts
-Web開発ソフトウェアテスト（React + TypeScript + React Hooks + Redux Toolkit）
+## 概要
+
+Web 開発ソフトウェアテスト（React + TypeScript + React Hooks + Redux Toolkit）
+
+## ローカルサーバの起動
+
+```bash
+npm run dev
+```
+
+## テスト
+
+```bash
+npm run test
+```
